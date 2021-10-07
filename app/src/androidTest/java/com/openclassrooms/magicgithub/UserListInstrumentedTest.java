@@ -1,4 +1,4 @@
-package com.openclassrooms.magicgithub;
+ package com.openclassrooms.magicgithub;
 
 import com.openclassrooms.magicgithub.ui.user_list.ListUserActivity;
 import com.openclassrooms.magicgithub.utils.RecyclerViewUtils;
