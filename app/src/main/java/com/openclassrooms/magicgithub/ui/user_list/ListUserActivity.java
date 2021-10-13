@@ -60,6 +60,7 @@ public class ListUserActivity extends BaseActivity implements UserListAdapter.Li
 
     @Override
     public void onClickDelete(User user) {
+
         Log.d(ListUserActivity.class.getName(), "User tries to delete a item.");
         getUserRepository().deleteUser(user);
         loadData();
