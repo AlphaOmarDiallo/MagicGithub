@@ -1,11 +1,8 @@
 package com.openclassrooms.magicgithub.repository;
 
 import com.openclassrooms.magicgithub.api.ApiService;
-import com.openclassrooms.magicgithub.api.FakeApiService;
-import com.openclassrooms.magicgithub.api.FakeApiServiceGenerator;
 import com.openclassrooms.magicgithub.model.User;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class UserRepository {
